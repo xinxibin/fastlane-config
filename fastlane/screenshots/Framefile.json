@@ -1,0 +1,78 @@
+{
+  "default": {
+    "keyword": {
+      "fonts": [
+        {
+      		"font": "./fonts/Sauce Code Powerline Light.otf",
+          	"supported": ["en-US"]
+        },
+        {
+      		"font": "./fonts/Sauce Code Powerline Light.otf",
+          "supported": ["zcmn-Hans"]
+        }
+      ]
+    },
+    "title": {
+      "fonts": [
+        {
+    	  	"font": "./fonts/Sauce Code Powerline Light.otf",
+         	"supported": ["en-US"]
+        },
+        {
+     		 "font": "./fonts/Sauce Code Powerline Light.otf",
+        	 "supported": ["zcmn-Hans"]
+        },
+        {
+      		"font": "./fonts/Sauce Code Powerline Light.otf",
+          	"supported": ["ja-JP"]
+        }
+      ],
+      "color": "#545454"
+    },
+    "background": "./background.jpeg",
+    "show_complete_frame": false,
+    "stack_title" : true,
+    "padding": 50,
+    "title_below_image": false,
+  },
+
+
+  "data": [
+    {
+      "filter": "iPhone 8 Plus-0Snapshot",
+      "keyword": {
+        "color": "#d21559"
+      }
+    },
+    {
+      "filter": "iPhone 8 Plus-1Snapshot",
+      "keyword": {
+        "color": "#feb909"
+      }
+    },
+    {
+      "filter": "iPhone 8-0Snapshot",
+      "keyword": {
+        "color": "#feb909"
+      }
+    },
+    {
+      "filter": "iPhone 8-1Snapshot",
+      "keyword": {
+        "color": "#feb909"
+      }
+    },
+    {
+      "filter": "iPhone X-0Snapshot",
+      "keyword": {
+        "color": "#feb909"
+      }
+    },
+    {
+      "filter": "iPhone X-1Snapshot",
+      "keyword": {
+        "color": "#feb909"
+      }
+    }
+  ]
+}
